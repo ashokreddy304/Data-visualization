@@ -1,6 +1,6 @@
 # 🎨 Matplotlib Practice
 
-![Matplotlib Logo](https://matplotlib.org/stable/_static/logo2_compressed.svg)
+![Matplotlib Logo](https://raw.githubusercontent.com/matplotlib/matplotlib/main/doc/_static/logo2.svg)
 
 This repository contains examples, tutorials, and exercises for mastering **Matplotlib**, a comprehensive Python library for creating static, animated, and interactive visualizations.  
 
